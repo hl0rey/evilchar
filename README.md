@@ -6,5 +6,7 @@
 受evilurl启发，但是支持更多字符。
 # 用法
 生成: evilchar.py g [string] [targetchar]
+
 检测: evilchar.py d [string]
+
 自动发现可替换的字符: evilchar.py a [string]
